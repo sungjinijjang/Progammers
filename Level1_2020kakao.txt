@@ -15,7 +15,7 @@
 
 [Java - 문제 풀이]
 
-
+```markdown
 class Solution {
     public int solution(String s){
         String bufS = ""; // 중복 검사를 위한 버퍼
@@ -59,3 +59,4 @@ class Solution {
             return resultCnt;
     }
 }
+```
